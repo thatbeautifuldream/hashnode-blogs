@@ -51,3 +51,5 @@ In this case, the object does not have a toString or valueOf method, so the ToPr
 Let's play along with a few examples to get the hang of it,
 
 important to understand how it works to avoid common mistakes, such as getting the string "\[object Object\]" when attempting to concatenate an object with a string. By understanding the ToPrimitive operation and how it is used internally by the language, you can write more reliable and efficient code.
+
+With all due credits to my mentor \[Sanket Singh\]([https://www.linkedin.com/in/singhsanket143/](https://www.linkedin.com/in/singhsanket143/))
