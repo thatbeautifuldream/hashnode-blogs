@@ -22,69 +22,69 @@ First, create a new Express application using the following command:
 
 ```plaintext
 npm install express-generator -g
-express myapp 
+express myapp
 ```
 
 Once the application is created, navigate to the root directory of the application and install the dependencies using the following command:
 
 ```plaintext
 cd myapp
-npm install 
+npm install
 ```
 
 Now, let's install pm2 globally using the following command:
 
 ```plaintext
-npm install pm2 -g 
+npm install pm2 -g
 ```
 
 Once pm2 is installed, start the Express server using pm2 with the following command:
 
 ```plaintext
-pm2 start ./bin/www --name myapp 
+pm2 start ./bin/www --name myapp
 ```
 
 This command starts the Express server using the bin/www file and names the process as myapp. You can check the status of the process using the following command:
 
 ```plaintext
-pm2 status 
+pm2 status
 ```
 
 This will show you the status of all the processes managed by pm2, including the Express server process.
 
-## Setting up React app using pm2
+### Setting up React app using pm2
 
 Now that we have set up an Express server using pm2, let's see how to set up a React app using pm2.
 
 First, create a new React app using the following command:
 
 ```plaintext
-npx create-react-app myapp 
+npx create-react-app myapp
 ```
 
 Once the application is created, navigate to the root directory of the application and install the dependencies using the following command:
 
 ```plaintext
 cd myapp
-npm install  
+npm install
 ```
 
 Now, let's build the React app using the following command:
 
 ```plaintext
-npm run build 
+npm run build
 ```
 
 Once the app is built, we can serve it using a static file server such as serve. Let's install serve globally using the following command:
 
 ```plaintext
-npm install serve -g 
+npm install serve -g
 ```
 
 Now, serve the React app using the following command:
 
 ```plaintext
-serve -s build -l 3000 
+serve -s build -l 3000
 ```
 
 This serves the React app on port 3000. You can check the app by visiting [http://localhost:3000](http://localhost:3000) in your browser.
@@ -92,13 +92,13 @@ This serves the React app on port 3000. You can check the app by visiting [http:
 Finally, we can use pm2 to manage the static file server process. Start the server process using the following command:
 
 ```plaintext
-pm2 serve build 3000 --name myapp 
+pm2 serve build 3000 --name myapp
 ```
 
 This command starts the static file server on port 3000 using the build directory and names the process as myapp. You can check the status of the process using the following command:
 
 ```plaintext
-pm2 status 
+pm2 status
 ```
 
 ## Conclusion
