@@ -86,8 +86,6 @@ As the field of software engineering continues to grow and evolve, it is importa
 
 T-shaped learning refers to the idea that software engineers should strive to have a broad understanding of a variety of technologies and programming languages, represented by the horizontal bar of the "T." They should also have specialized expertise in a particular area, represented by the vertical bar of the "T." This combination of broad knowledge and specialized expertise can make software engineers more versatile and adaptable in a rapidly changing industry.
 
-![Are you T-Shaped?](https://media.licdn.com/dms/image/C5612AQE4n4xUyPp-vg/article-inline_image-shrink_1000_1488/0/1584506593131?e=1683158400&v=beta&t=0xviRPU0AaaBW4wfZ7RJr1fb81Zq4MCcpF3ZSlZPMuU align="left")
-
-Credit:
+# Credit
 
 This blog post is inspired by Gaurav Sen's video **"Front-End to Full-Stack: 9 Different Types of Software Engineers**" ([https://www.youtube.com/watch?v=AB80bDOX-uU](https://www.youtube.com/watch?v=AB80bDOX-uU)). Gaurav Sen is a popular YouTuber and software engineer who creates educational content on computer science and software engineering topics.
