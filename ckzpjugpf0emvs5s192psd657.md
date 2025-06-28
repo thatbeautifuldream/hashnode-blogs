@@ -1,4 +1,12 @@
-## Getting Started 🔥
+---
+title: "Getting Started 🔥"
+datePublished: Wed Feb 16 2022 12:47:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckzpjugpf0emvs5s192psd657
+slug: getting-started-js
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645207973898/bzo6snnzW.png
+tags: interview, javascript
+
+---
 
 - Note : `JavaScript is a Synchronous Single Threaded Language`
 
