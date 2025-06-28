@@ -1,4 +1,12 @@
-## Higher Order Functions - (II) & Beyond ⚡️
+---
+title: "Higher Order Functions - (II) & Beyond ⚡️"
+datePublished: Sun Feb 20 2022 20:56:26 GMT+0000 (Coordinated Universal Time)
+cuid: ckzvr2m7p0eg7ids1gacfgcj6
+slug: higher-order-functions-ii-and-beyond
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645390407652/8yf5lOEGc.png
+tags: javascript
+
+---
 
 ## Lets start with a quick revision of `map()` and `filter()` and some exercises 🔥
 
