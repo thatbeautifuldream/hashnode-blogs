@@ -1,4 +1,12 @@
-# Abstract Equality and Special Types!
+---
+title: "Abstract Equality and Special Types!"
+datePublished: Thu Jan 12 2023 18:46:15 GMT+0000 (Coordinated Universal Time)
+cuid: clctfyw27000208l0erh32hdt
+slug: abstract-equality-and-special-types
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673493645246/52bfb96f-6fe0-4afd-936b-bdfa0cde13a5.png
+tags: javascript, special-types, abstract-equality-strict-equality
+
+---
 
 To better understand equality and its use cases let's see the available types in Javascript. JavaScript has several special types that are used to represent specific types of data.
 
