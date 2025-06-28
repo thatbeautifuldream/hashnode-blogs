@@ -1,4 +1,12 @@
-## 🛍 (Amazon.in) Price Tracker using Puppeteer
+---
+title: "🛍 (Amazon.in) Price Tracker using Puppeteer"
+datePublished: Sun Mar 20 2022 14:31:32 GMT+0000 (Coordinated Universal Time)
+cuid: cl0zdnhdb0dmwj6nvgj1e4f0y
+slug: price-tracker
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1647189527279/51IFQ7_5V.png
+tags: amazon, javascript, web-development
+
+---
 
 JavaScript quick-start project for `amazon.in` price tracking.
 
