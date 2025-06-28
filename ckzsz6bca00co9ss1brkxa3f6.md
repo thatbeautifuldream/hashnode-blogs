@@ -1,4 +1,12 @@
-## 👑 Higher Order Functions  (Part 1)
+---
+title: "👑 Higher Order Functions  (Part 1)"
+datePublished: Fri Feb 18 2022 22:19:57 GMT+0000 (Coordinated Universal Time)
+cuid: ckzsz6bca00co9ss1brkxa3f6
+slug: higher-order-functions-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645222363705/6Hmit-2uo.png
+tags: javascript
+
+---
 
 - A higher order function is a function that takes a function as an argument or returns a function as a result. Like `map`, `filter`, `reduce`.
 - Few other functions : `find`, `findIndex`, `forEach`, `some` and `every`.
