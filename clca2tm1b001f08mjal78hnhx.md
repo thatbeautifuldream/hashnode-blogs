@@ -1,4 +1,12 @@
-# useContext & useReducer 🪝from component level state to global state!
+---
+title: "useContext & useReducer 🪝from component level state to global state!"
+datePublished: Fri Dec 30 2022 05:30:36 GMT+0000 (Coordinated Universal Time)
+cuid: clca2tm1b001f08mjal78hnhx
+slug: usecontext-usereducer-from-component-level-state-to-global-state
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672377844811/5943f23d-a617-432f-9c23-d21accfdb114.png
+tags: reactjs, reacthooks, wemakedevs
+
+---
 
 The `useContext` hook is a way for a React component to access the context, or shared state, of a parent component. It is a convenient way to pass data down the component tree without having to use props at every level.
 
