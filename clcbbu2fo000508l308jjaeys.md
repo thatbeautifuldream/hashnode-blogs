@@ -1,4 +1,12 @@
-# React Router v6 Basics & Migration guide from v5
+---
+title: "React Router v6 Basics & Migration guide from v5"
+datePublished: Sat Dec 31 2022 02:30:40 GMT+0000 (Coordinated Universal Time)
+cuid: clcbbu2fo000508l308jjaeys
+slug: react-router-v6-basics-migration-guide-from-v5
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672453563972/e13a519c-bf78-41fa-a78e-8dce45a41b35.png
+tags: react-router, react-router-dom, react-router-6, wemakedevs
+
+---
 
 React Router is a popular library for handling routing in React applications. It allows you to easily specify the relationship between different parts of your application and provides a way for users to navigate between them.
 
