@@ -1,4 +1,12 @@
-# useState & useEffect 🪝 from counter to data fetching!
+---
+title: "useState & useEffect 🪝 from counter to data fetching!"
+datePublished: Fri Dec 30 2022 02:37:23 GMT+0000 (Coordinated Universal Time)
+cuid: clc9wmutk000208mk8kn58fkl
+slug: usestate-useeffect-from-counter-to-data-fetching
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672367534849/b051f4a9-72ec-449d-a659-7e23177b9478.png
+tags: reactjs, reacthooks, wemakedevs
+
+---
 
 ## **Introduction to** `useState` and `useEffect` in React
 
